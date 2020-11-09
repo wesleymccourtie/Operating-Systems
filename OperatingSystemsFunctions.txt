@@ -1,0 +1,1 @@
+One operating system function is the controlling of peripheral devices. Peripheral devices can be anything from printers to drivers, which it does through device management. Device management is where the operating system communicates with the drivers, and allocates resources accordingly. It additionally keeps tracks of these devices. 
